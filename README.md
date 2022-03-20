@@ -1,1 +1,2 @@
 # tietokantasovellus-projekti
+I will try to create some sort of simple games and other excercises that keep track of things such as highscores per user. Account creation will be possible and users will be able to make groups that others are able to join. There will be account pages where users can do stuff like write about themselves and display game scores and liked games, or something like that. There will probably be many more functionalities.
